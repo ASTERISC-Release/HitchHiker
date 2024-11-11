@@ -1,0 +1,35 @@
+<------------iter 1 ----------------->
+fillseq      :      70.637 micros/op;    1
+readrandom   :       3.214 micros/op;
+<------------iter 2 ----------------->
+fillseq      :      70.797 micros/op;    1
+readrandom   :       3.196 micros/op;
+<------------iter 3 ----------------->
+fillseq      :      70.202 micros/op;    1
+readrandom   :       3.219 micros/op;
+<------------iter 4 ----------------->
+fillseq      :      70.106 micros/op;    1
+readrandom   :       3.217 micros/op;
+<------------iter 5 ----------------->
+fillseq      :      70.548 micros/op;    1
+readrandom   :       2.820 micros/op;
+<------------iter 6 ----------------->
+fillseq      :      70.578 micros/op;    1
+readrandom   :       2.945 micros/op;
+<------------iter 7 ----------------->
+fillseq      :      70.525 micros/op;    1
+readrandom   :       3.247 micros/op;
+<------------iter 8 ----------------->
+fillseq      :      70.066 micros/op;    1
+readrandom   :       2.951 micros/op;
+<------------iter 9 ----------------->
+fillseq      :      70.256 micros/op;    1
+readrandom   :       3.458 micros/op;
+<------------iter 10 ----------------->
+fillseq      :      70.448 micros/op;    1
+readrandom   :       2.834 micros/op;
+Avg write_delay: 70.41. us/op
+Avg read_delay: 2.82. us/op
+Avg write_time: .70 s. 
+Avg read_time: .25 s. 
+Avg whole_time: .95 s.
